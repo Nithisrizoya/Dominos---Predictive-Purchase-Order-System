@@ -27,8 +27,8 @@ Dominoe's Pizza aims to optimize its inventory management by predicting future p
  Food Service Industry
 
 # Dataset
-    * Sales dataset
-    * Ingredients dataset
+    * Sales dataset as pizza_sale.xlsx
+    * Ingredients dataset as pizza_ingredients.xlsx
     * Alao at https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
 
 # Data Explanation
@@ -110,7 +110,7 @@ Model Evaluation: Evaluation of the classic ml models using metrics such as Mean
 
 # 7. Demo Output:
 
-              * streamlit_page1.png
+              * streamlit_frontpage.png
               * streamlit_day1.png
               * streamlit_day2.png
               * streamlit_day3.png
