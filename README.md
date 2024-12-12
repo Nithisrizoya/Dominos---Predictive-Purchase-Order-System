@@ -27,9 +27,9 @@ Dominoe's Pizza aims to optimize its inventory management by predicting future p
  Food Service Industry
 
 # Dataset
-    * Sales dataset as pizza_sale.xlsx
-    * Ingredients dataset as pizza_ingredients.xlsx
-    * Alao at https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
+ * Sales dataset as pizza_sale.xlsx
+ * Ingredients dataset as pizza_ingredients.xlsx
+ * Also at https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
 
 # Data Explanation
 
@@ -160,9 +160,9 @@ Forecasts for the next 7 days were generated(or any number chosen by user can be
 
 Accurate forecasting of pizza orders and ingredient quantities provides significant benefits, including:
 
-    Improved inventory management
-    Optimized supply chain logistics
-    Enhanced operational efficiency
+ Improved inventory management
+ Optimized supply chain logistics
+ Enhanced operational efficiency
     
 # Conclusion and Summary
 
