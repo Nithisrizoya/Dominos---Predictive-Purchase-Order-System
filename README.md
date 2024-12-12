@@ -161,7 +161,9 @@ Forecasts for the next 7 days were generated(or any number chosen by user can be
 Accurate forecasting of pizza orders and ingredient quantities provides significant benefits, including:
 
  Improved inventory management
+ 
  Optimized supply chain logistics
+ 
  Enhanced operational efficiency
     
 # Conclusion and Summary
